@@ -25,8 +25,8 @@ The image streaming must follow this format
 5)image_data:	(packagesize-4 chars)  (The image format must be 24 bit: rgb)
 
 Example
-		<<<sssswwhhdddddddddddddddd.....ddddd
-		|_||__|||||________________________|
+		<<<sssswwhhdddddddddddddddd.....ddddd									
+		|_||__|||||________________________|									
 		 1   2 3 4             5
 
 
