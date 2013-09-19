@@ -1,0 +1,708 @@
+It took me 11853 clicks (11.853000 seconds).
+Socket Streaming Mode
+
+Camera(s)/Video Initialized...
+OF_WARNING: in allocate, reallocating a ofxCvImage
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Subtraction
+loading Shaders vs:(null), gs:(null), fs:data/shaders/absSubtract.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Subtraction
+loading Shaders vs:(null), gs:(null), fs:data/shaders/subtract.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Contrast
+loading Shaders vs:(null), gs:(null), fs:data/shaders/contrast.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Gaussian Blur
+loading Shaders vs:(null), gs:(null), fs:data/shaders/gaussH.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Gaussian Blur
+loading Shaders vs:(null), gs:(null), fs:data/shaders/gaussH.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Gaussian Blur
+loading Shaders vs:(null), gs:(null), fs:data/shaders/gaussH.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Gaussian Blur
+loading Shaders vs:(null), gs:(null), fs:data/shaders/gaussH.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Threshold
+loading Shaders vs:(null), gs:(null), fs:data/shaders/threshold.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Copy
+loading Shaders vs:(null), gs:(null), fs:data/shaders/copy.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:GrayScale
+loading Shaders vs:(null), gs:(null), fs:data/shaders/grayScale.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Starting in standalone mode...
+
+Starting in full mode...
+
+CCV is Initialized!
+
+It took me 538 clicks (0.538000 seconds).
+It took me 44 clicks (0.044000 seconds).
+It took me 143 clicks (0.143000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 15 clicks (0.015000 seconds).
+It took me 11 clicks (0.011000 seconds).
+It took me 282 clicks (0.282000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 14 clicks (0.014000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 10 clicks (0.010000 seconds).
+It took me 17 clicks (0.017000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 19 clicks (0.019000 seconds).
+It took me 259 clicks (0.259000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 160 clicks (0.160000 seconds).
+It took me 76 clicks (0.076000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 227 clicks (0.227000 seconds).
+It took me 70 clicks (0.070000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 27 clicks (0.027000 seconds).
+It took me 217 clicks (0.217000 seconds).
+It took me 75 clicks (0.075000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 11 clicks (0.011000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 11 clicks (0.011000 seconds).
+It took me 28 clicks (0.028000 seconds).
+It took me 13 clicks (0.013000 seconds).
+It took me 29 clicks (0.029000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 15 clicks (0.015000 seconds).
+It took me 60 clicks (0.060000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 59 clicks (0.059000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 10 clicks (0.010000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 10 clicks (0.010000 seconds).
+It took me 197 clicks (0.197000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 11 clicks (0.011000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 162 clicks (0.162000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 10 clicks (0.010000 seconds).
+It took me 36 clicks (0.036000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 13 clicks (0.013000 seconds).
+It took me 54 clicks (0.054000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 11 clicks (0.011000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 21 clicks (0.021000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 10 clicks (0.010000 seconds).
+It took me 29 clicks (0.029000 seconds).
+It took me 196 clicks (0.196000 seconds).
+It took me 72 clicks (0.072000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 230 clicks (0.230000 seconds).
+It took me 77 clicks (0.077000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 13 clicks (0.013000 seconds).
+It took me 6 clicks (0.006000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 21 clicks (0.021000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 127 clicks (0.127000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 103 clicks (0.103000 seconds).
+It took me 6 clicks (0.006000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 11 clicks (0.011000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 146 clicks (0.146000 seconds).
+It took me 74 clicks (0.074000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 13 clicks (0.013000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 203 clicks (0.203000 seconds).
+It took me 77 clicks (0.077000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 11 clicks (0.011000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 19 clicks (0.019000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 10 clicks (0.010000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 12 clicks (0.012000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 11 clicks (0.011000 seconds).
+It took me 161 clicks (0.161000 seconds).
+It took me 71 clicks (0.071000 seconds).
+It took me 11 clicks (0.011000 seconds).
+It took me 6 clicks (0.006000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 203 clicks (0.203000 seconds).
+It took me 77 clicks (0.077000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 17 clicks (0.017000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 17 clicks (0.017000 seconds).
+It took me 111 clicks (0.111000 seconds).
+It took me 149 clicks (0.149000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 41 clicks (0.041000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 14 clicks (0.014000 seconds).
+It took me 216 clicks (0.216000 seconds).
+It took me 69 clicks (0.069000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 10 clicks (0.010000 seconds).
+It took me 16 clicks (0.016000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 10 clicks (0.010000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 10 clicks (0.010000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 16 clicks (0.016000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 10 clicks (0.010000 seconds).
+It took me 13 clicks (0.013000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 10 clicks (0.010000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 10 clicks (0.010000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 13 clicks (0.013000 seconds).
+It took me 241 clicks (0.241000 seconds).
+It took me 66 clicks (0.066000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 10 clicks (0.010000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 10 clicks (0.010000 seconds).
+It took me 222 clicks (0.222000 seconds).
+It took me 58 clicks (0.058000 seconds).
+It took me 220 clicks (0.220000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 12 clicks (0.012000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 54 clicks (0.054000 seconds).
+It took me 56 clicks (0.056000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 92 clicks (0.092000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 15 clicks (0.015000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 12 clicks (0.012000 seconds).
+It took me 215 clicks (0.215000 seconds).
+It took me 73 clicks (0.073000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 12 clicks (0.012000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 10 clicks (0.010000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 10 clicks (0.010000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 10 clicks (0.010000 seconds).
+It took me 12 clicks (0.012000 seconds).
+It took me 202 clicks (0.202000 seconds).
+It took me 99 clicks (0.099000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 15 clicks (0.015000 seconds).
+It took me 31 clicks (0.031000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 19 clicks (0.019000 seconds).
+It took me 73 clicks (0.073000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 228 clicks (0.228000 seconds).
+It took me 171 clicks (0.171000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 249 clicks (0.249000 seconds).
+It took me 68 clicks (0.068000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 10 clicks (0.010000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 36 clicks (0.036000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 224 clicks (0.224000 seconds).
+It took me 58 clicks (0.058000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 180 clicks (0.180000 seconds).
+It took me 97 clicks (0.097000 seconds).
+It took me 66 clicks (0.066000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 41 clicks (0.041000 seconds).
+It took me 68 clicks (0.068000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 13 clicks (0.013000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 147 clicks (0.147000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 143 clicks (0.143000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 12 clicks (0.012000 seconds).
+It took me 33 clicks (0.033000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 10 clicks (0.010000 seconds).
+It took me 215 clicks (0.215000 seconds).
+It took me 64 clicks (0.064000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 12 clicks (0.012000 seconds).
+It took me 18 clicks (0.018000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 11 clicks (0.011000 seconds).
+It took me 140 clicks (0.140000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 65 clicks (0.065000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 37 clicks (0.037000 seconds).
+It took me 16 clicks (0.016000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 46 clicks (0.046000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 40 clicks (0.040000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 10 clicks (0.010000 seconds).
+It took me 33 clicks (0.033000 seconds).
+It took me 83 clicks (0.083000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 150 clicks (0.150000 seconds).
+It took me 96 clicks (0.096000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 19 clicks (0.019000 seconds).
+It took me 206 clicks (0.206000 seconds).
+It took me 65 clicks (0.065000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 13 clicks (0.013000 seconds).
+It took me 30 clicks (0.030000 seconds).
+It took me 198 clicks (0.198000 seconds).
+It took me 58 clicks (0.058000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 9 clicks (0.009000 seconds).
+It took me 223 clicks (0.223000 seconds).
+It took me 93 clicks (0.093000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 27 clicks (0.027000 seconds).
+It took me 13 clicks (0.013000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 11 clicks (0.011000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 11 clicks (0.011000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 16 clicks (0.016000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 11 clicks (0.011000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 12 clicks (0.012000 seconds).
+It took me 7 clicks (0.007000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+It took me 8 clicks (0.008000 seconds).
+Vision module has exited!

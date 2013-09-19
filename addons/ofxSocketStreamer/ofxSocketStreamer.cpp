@@ -20,7 +20,7 @@
 
 
 #include "ofxSocketStreamer.h"
-
+#include <time.h> 
 
 ofxSocketStreamer::ofxSocketStreamer()
 {
@@ -32,7 +32,7 @@ ofxSocketStreamer::ofxSocketStreamer()
 	pixels	=	NULL;
 	readBuff =	new char[READING_SOCKSTREAM_BUFFER_SIZE]();
 	pixels	=	new unsigned char[PIXELS_BUFFER_SIZE]();
-	setVerbose(false);
+	setVerbose(true);
 }
 
 ofxSocketStreamer::~ofxSocketStreamer()
@@ -97,6 +97,7 @@ bool ofxSocketStreamer::isFrameNew()
 		streamActive = false;
 		return false;
 	}
+
 
 	//read socket
 	int recv_c = TCPConnectionHandler.Receive(&readBuff[readingOffset] ,READING_SOCKSTREAM_BUFFER_SIZE - readingOffset);

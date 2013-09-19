@@ -1,0 +1,230 @@
+Entrando a la funcion isFrameNew() cada 5.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo.
+Socket Streaming Mode
+
+Camera(s)/Video Initialized...
+OF_WARNING: in allocate, reallocating a ofxCvImage
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Subtraction
+loading Shaders vs:(null), gs:(null), fs:data/shaders/absSubtract.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Subtraction
+loading Shaders vs:(null), gs:(null), fs:data/shaders/subtract.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Contrast
+loading Shaders vs:(null), gs:(null), fs:data/shaders/contrast.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Gaussian Blur
+loading Shaders vs:(null), gs:(null), fs:data/shaders/gaussH.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Gaussian Blur
+loading Shaders vs:(null), gs:(null), fs:data/shaders/gaussH.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Gaussian Blur
+loading Shaders vs:(null), gs:(null), fs:data/shaders/gaussH.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Gaussian Blur
+loading Shaders vs:(null), gs:(null), fs:data/shaders/gaussH.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Threshold
+loading Shaders vs:(null), gs:(null), fs:data/shaders/threshold.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Copy
+loading Shaders vs:(null), gs:(null), fs:data/shaders/copy.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:GrayScale
+loading Shaders vs:(null), gs:(null), fs:data/shaders/grayScale.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Starting in standalone mode...
+
+Starting in full mode...
+
+CCV is Initialized!
+
+Entrando a la funcion isFrameNew() cada 0.488000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo.
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.294000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo.
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.232000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.017000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.012000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo.
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.241000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo.
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.237000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo.
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.127000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.030000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo.
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.238000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo.
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.243000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.013000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo.
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.298000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.006000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.011000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.016000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo.
+Entrando a la funcion isFrameNew() cada 0.158000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.014000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.010000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.010000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo.
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.132000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.021000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.267000 segundos.
+recv buff:.
+<<<Ÿ$
+ofxTCPManager: Receive() failed
+Entrando a la funcion isFrameNew() cada 0.013000 segundos.
+recv buff:.
+<<<Ÿ$

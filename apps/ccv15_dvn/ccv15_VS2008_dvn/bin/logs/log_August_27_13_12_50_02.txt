@@ -1,0 +1,1433 @@
+Entrando a la funcion isFrameNew() cada 2.962000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo. (1 frames readed)
+Socket Streaming Mode
+
+Camera(s)/Video Initialized...
+OF_WARNING: in allocate, reallocating a ofxCvImage
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Subtraction
+loading Shaders vs:(null), gs:(null), fs:data/shaders/absSubtract.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Subtraction
+loading Shaders vs:(null), gs:(null), fs:data/shaders/subtract.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Contrast
+loading Shaders vs:(null), gs:(null), fs:data/shaders/contrast.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Gaussian Blur
+loading Shaders vs:(null), gs:(null), fs:data/shaders/gaussH.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Gaussian Blur
+loading Shaders vs:(null), gs:(null), fs:data/shaders/gaussH.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Gaussian Blur
+loading Shaders vs:(null), gs:(null), fs:data/shaders/gaussH.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Gaussian Blur
+loading Shaders vs:(null), gs:(null), fs:data/shaders/gaussH.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Threshold
+loading Shaders vs:(null), gs:(null), fs:data/shaders/threshold.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Copy
+loading Shaders vs:(null), gs:(null), fs:data/shaders/copy.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:GrayScale
+loading Shaders vs:(null), gs:(null), fs:data/shaders/grayScale.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Starting in standalone mode...
+
+Starting in full mode...
+
+CCV is Initialized!
+
+Entrando a la funcion isFrameNew() cada 0.699000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.048000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.158000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.013000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.013000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.015000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.012000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.013000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.010000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.012000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.014000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.013000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.016000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.010000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.010000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.012000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.014000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo. (1 frames readed)
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.155000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.020000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.006000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo. (1 frames readed)
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.079000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.013000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.083000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.039000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.045000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.013000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.035000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.012000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.020000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo. (2 frames readed)
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.244000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo. (2 frames readed)
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.235000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo. (1 frames readed)
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.080000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.064000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.037000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.037000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.062000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.010000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo. (2 frames readed)
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.220000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo. (1 frames readed)
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.061000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.053000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo. (2 frames readed)
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.224000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo. (1 frames readed)
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.059000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.013000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo. (2 frames readed)
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.234000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo. (1 frames readed)
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.107000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.022000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.010000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.013000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.010000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.010000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.012000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.035000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo. (1 frames readed)
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.126000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo. (1 frames readed)
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.056000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.036000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.011000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.010000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.006000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.012000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo. (1 frames readed)
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.066000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.028000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.013000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo. (1 frames readed)
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.138000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo. (1 frames readed)
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.078000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.013000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.035000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.014000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo. (2 frames readed)
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.190000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo. (1 frames readed)
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.058000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.011000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.012000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.006000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.010000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.011000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo. (1 frames readed)
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.134000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo. (1 frames readed)
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.059000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo. (2 frames readed)
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.232000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo. (1 frames readed)
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.071000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.012000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.015000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.030000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.040000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.011000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.010000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.021000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.011000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.014000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.010000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.011000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo. (1 frames readed)
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.061000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.010000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.050000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo. (1 frames readed)
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.069000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.064000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo. (2 frames readed)
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.224000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo. (1 frames readed)
+Copiando rmning data.
+Entrando a la funcion isFrameNew() cada 0.057000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.010000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.011000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.011000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.006000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete completo. (2 frames readed)
+Entrando a la funcion isFrameNew() cada 0.152000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.089000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.055000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.065000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.022000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.030000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.036000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.215000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.010000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.033000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.038000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.010000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.033000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.010000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.188000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.010000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.396000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.015000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.010000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.031000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+recv buff:.
+<<<Ÿ$
+Paquete incompleto.
+Vision module has exited!

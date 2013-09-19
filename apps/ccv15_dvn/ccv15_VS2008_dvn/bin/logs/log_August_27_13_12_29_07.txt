@@ -1,0 +1,401 @@
+Entrando a la funcion isFrameNew() cada 5.913000 segundos.
+Paquete completo. (period 5.973000 s)
+Socket Streaming Mode
+
+Camera(s)/Video Initialized...
+OF_WARNING: in allocate, reallocating a ofxCvImage
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Subtraction
+loading Shaders vs:(null), gs:(null), fs:data/shaders/absSubtract.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Subtraction
+loading Shaders vs:(null), gs:(null), fs:data/shaders/subtract.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Contrast
+loading Shaders vs:(null), gs:(null), fs:data/shaders/contrast.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Gaussian Blur
+loading Shaders vs:(null), gs:(null), fs:data/shaders/gaussH.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Gaussian Blur
+loading Shaders vs:(null), gs:(null), fs:data/shaders/gaussH.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Gaussian Blur
+loading Shaders vs:(null), gs:(null), fs:data/shaders/gaussH.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Gaussian Blur
+loading Shaders vs:(null), gs:(null), fs:data/shaders/gaussH.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Threshold
+loading Shaders vs:(null), gs:(null), fs:data/shaders/threshold.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Copy
+loading Shaders vs:(null), gs:(null), fs:data/shaders/copy.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:GrayScale
+loading Shaders vs:(null), gs:(null), fs:data/shaders/grayScale.fs
+Fragment shader was successfully compiled to run on hardware.
+
+Fragment shader(s) linked.
+
+Starting in standalone mode...
+
+Starting in full mode...
+
+CCV is Initialized!
+
+Entrando a la funcion isFrameNew() cada 0.587000 segundos.
+Paquete incompleto. (period 6.501000 s)
+Entrando a la funcion isFrameNew() cada 0.035000 segundos.
+Paquete incompleto. (period 0.038000 s)
+Entrando a la funcion isFrameNew() cada 0.161000 segundos.
+Paquete incompleto. (period 0.158000 s)
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+Paquete completo. (period 0.826000 s)
+Copiando rning dataemai. (period 6.800000 s)
+Entrando a la funcion isFrameNew() cada 0.177000 segundos.
+Paquete completo. (period 0.089000 s)
+Copiando rning dataemai. (period 0.088000 s)
+Entrando a la funcion isFrameNew() cada 0.079000 segundos.
+Paquete incompleto. (period 0.293000 s)
+Entrando a la funcion isFrameNew() cada 0.040000 segundos.
+Paquete incompleto. (period 0.009000 s)
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+Paquete incompleto. (period 0.009000 s)
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+Paquete completo. (period 0.212000 s)
+Copiando rning dataemai. (period 0.215000 s)
+Entrando a la funcion isFrameNew() cada 0.154000 segundos.
+Paquete completo. (period 0.078000 s)
+Copiando rning dataemai. (period 0.076000 s)
+Entrando a la funcion isFrameNew() cada 0.087000 segundos.
+Paquete incompleto. (period 0.249000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete completo. (period 0.264000 s)
+Copiando rning dataemai. (period 0.264000 s)
+Entrando a la funcion isFrameNew() cada 0.343000 segundos.
+Paquete completo. (period 0.302000 s)
+Copiando rning dataemai. (period 0.304000 s)
+Entrando a la funcion isFrameNew() cada 0.212000 segundos.
+Paquete completo. (period 0.147000 s)
+Copiando rning dataemai. (period 0.146000 s)
+Entrando a la funcion isFrameNew() cada 0.142000 segundos.
+Paquete completo. (period 0.076000 s)
+Copiando rning dataemai. (period 0.075000 s)
+Entrando a la funcion isFrameNew() cada 0.081000 segundos.
+Paquete incompleto. (period 0.786000 s)
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+Paquete incompleto. (period 0.009000 s)
+Entrando a la funcion isFrameNew() cada 0.011000 segundos.
+Paquete completo. (period 0.247000 s)
+Copiando rning dataemai. (period 0.248000 s)
+Entrando a la funcion isFrameNew() cada 0.217000 segundos.
+Paquete completo. (period 0.069000 s)
+Copiando rning dataemai. (period 0.067000 s)
+Entrando a la funcion isFrameNew() cada 0.069000 segundos.
+Paquete incompleto. (period 0.296000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.008000 s)
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+Paquete incompleto. (period 0.008000 s)
+Entrando a la funcion isFrameNew() cada 0.011000 segundos.
+Paquete incompleto. (period 0.010000 s)
+Entrando a la funcion isFrameNew() cada 0.015000 segundos.
+Paquete incompleto. (period 0.039000 s)
+Entrando a la funcion isFrameNew() cada 0.034000 segundos.
+Paquete incompleto. (period 0.010000 s)
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+Paquete incompleto. (period 0.007000 s)
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+Paquete incompleto. (period 0.010000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.008000 s)
+Entrando a la funcion isFrameNew() cada 0.100000 segundos.
+Paquete incompleto. (period 0.099000 s)
+Entrando a la funcion isFrameNew() cada 0.012000 segundos.
+Paquete incompleto. (period 0.013000 s)
+Entrando a la funcion isFrameNew() cada 0.021000 segundos.
+Paquete completo. (period 0.435000 s)
+Copiando rning dataemai. (period 0.436000 s)
+Entrando a la funcion isFrameNew() cada 0.205000 segundos.
+Paquete completo. (period 0.201000 s)
+Copiando rning dataemai. (period 0.201000 s)
+Entrando a la funcion isFrameNew() cada 0.199000 segundos.
+Paquete completo. (period 0.068000 s)
+Copiando rning dataemai. (period 0.070000 s)
+Entrando a la funcion isFrameNew() cada 0.060000 segundos.
+Paquete incompleto. (period 0.485000 s)
+Entrando a la funcion isFrameNew() cada 0.015000 segundos.
+Paquete incompleto. (period 0.014000 s)
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+Paquete incompleto. (period 0.007000 s)
+Entrando a la funcion isFrameNew() cada 0.010000 segundos.
+Paquete incompleto. (period 0.011000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.007000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete completo. (period 0.217000 s)
+Entrando a la funcion isFrameNew() cada 0.165000 segundos.
+Paquete incompleto. (period 0.174000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.007000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.008000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.008000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.009000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.011000 s)
+Entrando a la funcion isFrameNew() cada 0.012000 segundos.
+Paquete incompleto. (period 0.008000 s)
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+Paquete incompleto. (period 0.007000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.009000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.007000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.009000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.007000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.008000 s)
+Entrando a la funcion isFrameNew() cada 0.012000 segundos.
+Paquete incompleto. (period 0.012000 s)
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+Paquete incompleto. (period 0.009000 s)
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+Paquete incompleto. (period 0.007000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.008000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.008000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.009000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.007000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.034000 s)
+Entrando a la funcion isFrameNew() cada 0.059000 segundos.
+Paquete completo. (period 0.330000 s)
+Copiando rning dataemai. (period 0.546000 s)
+Entrando a la funcion isFrameNew() cada 0.099000 segundos.
+Paquete completo. (period 0.088000 s)
+Copiando rning dataemai. (period 0.087000 s)
+Entrando a la funcion isFrameNew() cada 0.104000 segundos.
+Paquete completo. (period 0.114000 s)
+Copiando rning dataemai. (period 0.114000 s)
+Entrando a la funcion isFrameNew() cada 0.099000 segundos.
+Paquete completo. (period 0.183000 s)
+Copiando rning dataemai. (period 0.183000 s)
+Entrando a la funcion isFrameNew() cada 0.206000 segundos.
+Paquete completo. (period 0.209000 s)
+Copiando rning dataemai. (period 0.209000 s)
+Entrando a la funcion isFrameNew() cada 0.184000 segundos.
+Paquete completo. (period 0.175000 s)
+Copiando rning dataemai. (period 0.176000 s)
+Entrando a la funcion isFrameNew() cada 0.181000 segundos.
+Paquete completo. (period 0.057000 s)
+Copiando rning dataemai. (period 0.055000 s)
+Entrando a la funcion isFrameNew() cada 0.105000 segundos.
+Paquete incompleto. (period 1.012000 s)
+Entrando a la funcion isFrameNew() cada 0.015000 segundos.
+Paquete incompleto. (period 0.014000 s)
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+Paquete incompleto. (period 0.007000 s)
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+Paquete incompleto. (period 0.009000 s)
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+Paquete incompleto. (period 0.008000 s)
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+Paquete incompleto. (period 0.008000 s)
+Entrando a la funcion isFrameNew() cada 0.010000 segundos.
+Paquete incompleto. (period 0.011000 s)
+Entrando a la funcion isFrameNew() cada 0.010000 segundos.
+Paquete incompleto. (period 0.009000 s)
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+Paquete incompleto. (period 0.007000 s)
+Entrando a la funcion isFrameNew() cada 0.011000 segundos.
+Paquete incompleto. (period 0.011000 s)
+Entrando a la funcion isFrameNew() cada 0.014000 segundos.
+Paquete incompleto. (period 0.015000 s)
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+Paquete incompleto. (period 0.006000 s)
+Entrando a la funcion isFrameNew() cada 0.010000 segundos.
+Paquete incompleto. (period 0.010000 s)
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+Paquete incompleto. (period 0.009000 s)
+Entrando a la funcion isFrameNew() cada 0.010000 segundos.
+Paquete incompleto. (period 0.010000 s)
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+Paquete incompleto. (period 0.007000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.008000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.008000 s)
+Entrando a la funcion isFrameNew() cada 0.010000 segundos.
+Paquete completo. (period 0.341000 s)
+Copiando rning dataemai. (period 0.342000 s)
+Entrando a la funcion isFrameNew() cada 0.132000 segundos.
+Paquete completo. (period 0.063000 s)
+Copiando rning dataemai. (period 0.062000 s)
+Entrando a la funcion isFrameNew() cada 0.067000 segundos.
+Paquete incompleto. (period 0.209000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.008000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.008000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.009000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.007000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.008000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.009000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.007000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.009000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.007000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.008000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.008000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.008000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.008000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.009000 s)
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+Paquete incompleto. (period 0.008000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.008000 s)
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+Paquete incompleto. (period 0.007000 s)
+Entrando a la funcion isFrameNew() cada 0.010000 segundos.
+Paquete incompleto. (period 0.010000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.008000 s)
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+Paquete incompleto. (period 0.009000 s)
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+Paquete incompleto. (period 0.007000 s)
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+Paquete incompleto. (period 0.009000 s)
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+Paquete incompleto. (period 0.007000 s)
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+Paquete incompleto. (period 0.009000 s)
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+Paquete incompleto. (period 0.035000 s)
+Entrando a la funcion isFrameNew() cada 0.034000 segundos.
+Paquete incompleto. (period 0.008000 s)
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+Paquete completo. (period 0.312000 s)
+Copiando rning dataemai. (period 0.312000 s)
+Entrando a la funcion isFrameNew() cada 0.059000 segundos.
+Paquete incompleto. (period 0.066000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.008000 s)
+Entrando a la funcion isFrameNew() cada 0.039000 segundos.
+Paquete incompleto. (period 0.039000 s)
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+Paquete incompleto. (period 0.007000 s)
+Entrando a la funcion isFrameNew() cada 0.010000 segundos.
+Paquete incompleto. (period 0.010000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.008000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.008000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.008000 s)
+Entrando a la funcion isFrameNew() cada 0.024000 segundos.
+Paquete incompleto. (period 0.024000 s)
+Entrando a la funcion isFrameNew() cada 0.006000 segundos.
+Paquete incompleto. (period 0.006000 s)
+Entrando a la funcion isFrameNew() cada 0.010000 segundos.
+Paquete incompleto. (period 0.010000 s)
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+Paquete incompleto. (period 0.008000 s)
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+Paquete incompleto. (period 0.008000 s)
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+Paquete incompleto. (period 0.007000 s)
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+Paquete incompleto. (period 0.009000 s)
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+Paquete incompleto. (period 0.008000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.007000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.008000 s)
+Entrando a la funcion isFrameNew() cada 0.010000 segundos.
+Paquete incompleto. (period 0.010000 s)
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+Paquete incompleto. (period 0.007000 s)
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+Paquete incompleto. (period 0.010000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete incompleto. (period 0.007000 s)
+Entrando a la funcion isFrameNew() cada 0.009000 segundos.
+Paquete incompleto. (period 0.009000 s)
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+Paquete incompleto. (period 0.007000 s)
+Entrando a la funcion isFrameNew() cada 0.010000 segundos.
+Paquete incompleto. (period 0.010000 s)
+Entrando a la funcion isFrameNew() cada 0.007000 segundos.
+Paquete incompleto. (period 0.008000 s)
+Entrando a la funcion isFrameNew() cada 0.008000 segundos.
+Paquete completo. (period 0.465000 s)
+Copiando rning dataemai. (period 0.466000 s)
+Vision module has exited!
