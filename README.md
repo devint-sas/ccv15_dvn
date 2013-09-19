@@ -9,7 +9,7 @@ there is the visual studio 2008 project that compiles the current project implem
 
 This vertion of "CCV v1.5" runs in the same way and has the same characteristics as the original version.
 To put the program to run in SOCKET_STREAM mode you need to  find the file "data/xml/app_settings.xml"
-and edit the "<SOURCE>" property and put its value to "IN_SOCKET".
+and edit the "\<SOURCE\>" property and put its value to "IN_SOCKET".
 
 The port used for the streaming can be configured editing the property "\<IN_SOCKET_PORT\>" of the same file.
 Note:	The connection is made via TCP
