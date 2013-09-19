@@ -19,10 +19,15 @@ After the file edition run the program and the program will wait until the socke
 The image streaming must follow this format 
 
 1)Heder:		'<<<'
+
 2)packagesize:	int (4 chars) (image_Width+image_Height+image_data)
+
 3)image_Width:	word (2 chars)
+
 4)image_Height:	word (2 chars)
+
 5)image_data:	(packagesize-4 chars)  (The image format must be 24 bit: rgb)
+
 
 Example
 		<<<sssswwhhdddddddddddddddd.....ddddd									
