@@ -11,7 +11,7 @@ This vertion of "CCV v1.5" runs in the same way and has the same characteristics
 To put the program to run in SOCKET_STREAM mode you need to  find the file "data/xml/app_settings.xml"
 and edit the "<SOURCE>" property and put its value to "IN_SOCKET".
 
-The port used for the streaming can be configured editing the property "<IN_SOCKET_PORT>" of the same file.
+The port used for the streaming can be configured editing the property "\<IN_SOCKET_PORT\>" of the same file.
 Note:	The connection is made via TCP
 
 After the file edition run the program and the program will wait until the socket image streaming begin.
