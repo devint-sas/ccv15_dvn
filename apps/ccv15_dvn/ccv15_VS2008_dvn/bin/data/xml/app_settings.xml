@@ -6,8 +6,8 @@ Can now use VIDEO or CAMERA MULTIPLEXER MODES.
 -->
 <CONFIG>
     <MULTIPLEXER>
-        <WIDTH>301</WIDTH>
-        <HEIGHT>172</HEIGHT>
+        <WIDTH>360</WIDTH>
+        <HEIGHT>208</HEIGHT>
         <FRAMERATE>90</FRAMERATE>
         <CAMERATYPES>
             <PS3>1</PS3>
@@ -44,7 +44,7 @@ Can now use VIDEO or CAMERA MULTIPLEXER MODES.
         <HEIGHT>600</HEIGHT>
     </WINDOW>
     <BOOLEAN>
-        <PRESSURE>0</PRESSURE>
+        <PRESSURE>205</PRESSURE>
         <LABELS>1</LABELS>
         <OUTLINES>1</OUTLINES>
         <LEARNBG>0</LEARNBG>
