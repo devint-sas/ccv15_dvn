@@ -400,6 +400,7 @@ void ofxNCoreVision::initDevice()
 		}
 		else if (bsocket)
 		{
+			multiplexerManager->setCalibrator(&calib);
 			//socket video input support
 			sockStreamer = new ofxSocketStreamer();
 			sockStreamer->openSocket(in_socket_port);
