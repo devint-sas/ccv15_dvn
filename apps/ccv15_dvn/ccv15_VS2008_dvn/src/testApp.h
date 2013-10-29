@@ -14,6 +14,7 @@ class testApp : public ofBaseApp, public TouchListener
 public:
 	testApp(int argc, char *argv[]) 
 	{
+		
 		debug = false;
 		TouchEvents.addListener(this);
 		if(argc==2)
@@ -22,6 +23,11 @@ public:
 			if(strcmp(argv[1],"-d")==0)
 			{
 				debug = true;
+			}
+			if(strcmp(argv[1],"-h")==0)
+			{
+				printf("Running program in background mode.\n",argv[1]);
+				glutHideWindow();
 			}
 		}
 	}

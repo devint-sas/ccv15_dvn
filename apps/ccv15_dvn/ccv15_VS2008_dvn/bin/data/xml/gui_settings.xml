@@ -1,6 +1,6 @@
 <UI>
     <VERSION>0.10</VERSION>
-    <ISACTIVE>1</ISACTIVE>
+    <ISACTIVE>0</ISACTIVE>
     <DOUPDATE>0</DOUPDATE>
     <STYLE>
         <HEADFONT>fonts/verdana.ttf</HEADFONT>
@@ -32,11 +32,48 @@
         <ACTIVECOLOR>FF0000FF</ACTIVECOLOR>
     </STYLE>
     <OBJECT>
+        <ID>10</ID>
+        <TYPE>PANEL</TYPE>
+        <NAME>Views</NAME>
+        <LEFT>15.000000</LEFT>
+        <TOP>15.000000</TOP>
+        <WIDTH>130.000000</WIDTH>
+        <HEIGHT>62.000000</HEIGHT>
+        <DISPLAY>2</DISPLAY>
+        <STEPS>0</STEPS>
+        <BORDER>10</BORDER>
+        <SPACING>10</SPACING>
+        <OBJECT>
+            <ID>11</ID>
+            <TYPE>BUTTON</TYPE>
+            <NAME>Calibration (c)</NAME>
+            <LEFT>10.000000</LEFT>
+            <TOP>32.000000</TOP>
+            <WIDTH>10.000000</WIDTH>
+            <HEIGHT>10.000000</HEIGHT>
+            <DISPLAY>3</DISPLAY>
+            <STEPS>0</STEPS>
+            <VALUE>0</VALUE>
+        </OBJECT>
+        <OBJECT>
+            <ID>13</ID>
+            <TYPE>BUTTON</TYPE>
+            <NAME>Setup/Track (TAB)</NAME>
+            <LEFT>10.000000</LEFT>
+            <TOP>52.000000</TOP>
+            <WIDTH>10.000000</WIDTH>
+            <HEIGHT>10.000000</HEIGHT>
+            <DISPLAY>3</DISPLAY>
+            <STEPS>0</STEPS>
+            <VALUE>0</VALUE>
+        </OBJECT>
+    </OBJECT>
+    <OBJECT>
         <ID>53</ID>
         <TYPE>PANEL</TYPE>
         <NAME>Settings</NAME>
         <LEFT>15.000000</LEFT>
-        <TOP>15.000000</TOP>
+        <TOP>95.000000</TOP>
         <WIDTH>145.000000</WIDTH>
         <HEIGHT>62.000000</HEIGHT>
         <DISPLAY>2</DISPLAY>
@@ -73,7 +110,7 @@
         <TYPE>PANEL</TYPE>
         <NAME>Communication</NAME>
         <LEFT>15.000000</LEFT>
-        <TOP>95.000000</TOP>
+        <TOP>175.000000</TOP>
         <WIDTH>111.000000</WIDTH>
         <HEIGHT>82.000000</HEIGHT>
         <DISPLAY>2</DISPLAY>
@@ -122,7 +159,7 @@
         <TYPE>PANEL</TYPE>
         <NAME>Transforms</NAME>
         <LEFT>15.000000</LEFT>
-        <TOP>195.000000</TOP>
+        <TOP>275.000000</TOP>
         <WIDTH>134.000000</WIDTH>
         <HEIGHT>64.000000</HEIGHT>
         <DISPLAY>2</DISPLAY>
@@ -139,7 +176,7 @@
             <HEIGHT>10.000000</HEIGHT>
             <DISPLAY>2</DISPLAY>
             <STEPS>0</STEPS>
-            <VALUE>0</VALUE>
+            <VALUE>1</VALUE>
         </OBJECT>
         <OBJECT>
             <ID>2</ID>
@@ -159,7 +196,7 @@
         <TYPE>PANEL</TYPE>
         <NAME>Track</NAME>
         <LEFT>15.000000</LEFT>
-        <TOP>275.000000</TOP>
+        <TOP>355.000000</TOP>
         <WIDTH>98.000000</WIDTH>
         <HEIGHT>82.000000</HEIGHT>
         <DISPLAY>2</DISPLAY>
@@ -251,7 +288,7 @@
             <STEPS>0</STEPS>
             <MIN>1.000000</MIN>
             <MAX>500.000000</MAX>
-            <VALUE>1.000000</VALUE>
+            <VALUE>25.000000</VALUE>
         </OBJECT>
         <OBJECT>
             <ID>40</ID>
@@ -265,7 +302,7 @@
             <STEPS>0</STEPS>
             <MIN>1.000000</MIN>
             <MAX>1000.000000</MAX>
-            <VALUE>821.000000</VALUE>
+            <VALUE>507.000000</VALUE>
         </OBJECT>
     </OBJECT>
     <OBJECT>
@@ -304,7 +341,7 @@
             <STEPS>0</STEPS>
             <MIN>0.000000</MIN>
             <MAX>255.000000</MAX>
-            <VALUE>189.000000</VALUE>
+            <VALUE>183.000000</VALUE>
         </OBJECT>
         <OBJECT>
             <ID>38</ID>
@@ -330,7 +367,7 @@
             <HEIGHT>10.000000</HEIGHT>
             <DISPLAY>2</DISPLAY>
             <STEPS>0</STEPS>
-            <VALUE>0</VALUE>
+            <VALUE>1</VALUE>
         </OBJECT>
     </OBJECT>
     <OBJECT>
@@ -367,7 +404,7 @@
             <HEIGHT>10.000000</HEIGHT>
             <DISPLAY>2</DISPLAY>
             <STEPS>0</STEPS>
-            <VALUE>0</VALUE>
+            <VALUE>1</VALUE>
         </OBJECT>
         <OBJECT>
             <ID>22</ID>
@@ -381,7 +418,7 @@
             <STEPS>0</STEPS>
             <MIN>1.000000</MIN>
             <MAX>2000.000000</MAX>
-            <VALUE>73.690910</VALUE>
+            <VALUE>1981.827271</VALUE>
         </OBJECT>
     </OBJECT>
     <OBJECT>
@@ -406,7 +443,7 @@
             <HEIGHT>12.000000</HEIGHT>
             <DISPLAY>2</DISPLAY>
             <STEPS>0</STEPS>
-            <VALUE>1</VALUE>
+            <VALUE>0</VALUE>
         </OBJECT>
         <OBJECT>
             <ID>25</ID>
@@ -445,7 +482,7 @@
             <HEIGHT>12.000000</HEIGHT>
             <DISPLAY>2</DISPLAY>
             <STEPS>0</STEPS>
-            <VALUE>1</VALUE>
+            <VALUE>0</VALUE>
         </OBJECT>
         <OBJECT>
             <ID>31</ID>
