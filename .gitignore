@@ -11,3 +11,4 @@
 *.lai
 *.la
 *.a
+apps/ccv15_VS2008_dvn/obj/*
